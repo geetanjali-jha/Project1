@@ -1,0 +1,9 @@
+This is my first file
+
+I will keep this file on github
+
+How to push from local git to remote git repo:
+
+1. git add
+2. git commit
+3. git push
